@@ -1,0 +1,8 @@
+{
+  "contrast": 20.0,
+  "brightness": 1.2,
+  "threshold": 150,
+  "sharpness": true,
+  "ocr_fail_limit": 5,
+  "delay_between": 3
+}
